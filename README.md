@@ -1,5 +1,8 @@
 **DESIGN AND DEVELOPMENT OF PHASE SHIFT FULL BRIDGE DC-DC CONVERTER**
+
 This is my project with the topic of Design and Development of Phase Shifted DC-DC Converter. I did all the design processes from simulation, hardware design, control programming, and system testing.
+
+
 
 **READ MORE ABOUT MY PAPER** [𝐶𝑙𝑖𝑐𝑘 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑏𝑒𝑙𝑜𝑤]
 
