@@ -1,3 +1,5 @@
+This is my project with the topic of Design and Development of Phase Shifted DC-DC Converter. I did all the design processes from simulation, hardware design, control programming, and system testing.
+
 **READ MORE ABOUT MY PAPER** [𝐶𝑙𝑖𝑐𝑘 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑏𝑒𝑙𝑜𝑤]
 
 [![View my paper here](https://drive.google.com/thumbnail?id=1G2VZJHrglfiqQJoxxJzmft4eQ43sqCGm&sz=s720)](https://drive.google.com/file/d/1G2VZJHrglfiqQJoxxJzmft4eQ43sqCGm/view)
