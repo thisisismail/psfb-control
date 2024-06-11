@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="12.3.0"/>
+	<deviceVariant value="TMS320C28XX.TMS320F28377D"/>
+	<deviceFamily value="C2000"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="22.6.0.LTS"/>
+	<isElfFormat value="true"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=epwm_ex8_deadband.projectspec.epwm_ex8_deadband"/>
+	<origin value="/home/bigboss/ti/C2000Ware_4_03_00_00/driverlib/f2837xd/examples/cpu1/epwm/CCS/epwm_ex8_deadband.projectspec"/>
+	<filesToOpen value=""/>
+	<isTargetManual value="true"/>
+</projectOptions>
